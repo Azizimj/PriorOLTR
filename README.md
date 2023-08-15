@@ -1,3 +1,6 @@
+## Paper
+[Overcoming Prior Misspecification in Online Learning to Rank](https://arxiv.org/abs/2301.10651)
+
 ## Installation
 Run `pip install -r reqs.txt`
 
